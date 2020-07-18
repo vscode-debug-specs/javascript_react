@@ -1,8 +1,3 @@
----
-title: How to Debug React JavaScript and TypeScript with VSCode
-permalink: /
----
-
 # React
 
 A declarative, efficient, and flexible JavaScript library for building user interfaces.
